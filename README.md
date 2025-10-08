@@ -1,4 +1,4 @@
-#好想成为人类
+# 好想成为人类
 <img align="right" src="https://count.getloli.com/get/@:sinonomeai?theme=rule34">
 
 ## 前端学习者-sinonomeai
