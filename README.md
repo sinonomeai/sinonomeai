@@ -1,21 +1,4 @@
-<<<<<<< HEAD
-## Hi there 👋
-
-<!--
-**sinonomeai/sinonomeai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-=======
+#好想成为人类
 <img align="right" src="https://count.getloli.com/get/@:sinonomeai?theme=rule34">
 
 ## 前端学习者-sinonomeai
@@ -48,8 +31,7 @@ Not yet for the moment
 
 ### Github 活跃度
 
-[![](https://activity-graph.herokuapp.com/graph?username=sinonomeai&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![sinonomeai's github stats](https://github-readme-stats.vercel.app/api?username=sinonomeai&show_icons=true&theme=vue)
+[![sinonomeai's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sinonomeai&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinonomeai&langs_count=6)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sinonomeai&layout=compact&langs_count=6)
