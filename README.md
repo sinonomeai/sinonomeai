@@ -7,7 +7,7 @@
 
 ### **社交主页：**
 
- <img align="right" alt="GIF" src="./images/doro.gif" width="430" height="100%" />
+ <img align="right" alt="GIF" src="./images/doro.gif" width="192" height="192" />
 
 
 -   <a href="https://juejin.cn/user/3273717445572746"><code><img height="20" width="50" src="./images/juejin.png"></code></a>
