@@ -1,4 +1,5 @@
 # 好想成为人类
+***我将开启我的前端学习物语***
 <img align="right" src="https://count.getloli.com/get/@:sinonomeai?theme=rule34">
 
 ## 前端学习者-sinonomeai
@@ -35,4 +36,3 @@ Not yet for the moment
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinonomeai&langs_count=6)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sinonomeai&layout=compact&langs_count=6)
->>>>>>> d871b88 (message)
